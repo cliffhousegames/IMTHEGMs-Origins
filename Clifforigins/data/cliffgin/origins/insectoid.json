@@ -1,0 +1,14 @@
+{
+	"powers": [
+		"origins:climbing",
+		"origins:arthropod",
+		"origins_classes:no_mining_exhaustion",
+		"origins:fragile"
+	],
+	"icon": "mysticalworld:beetle_chestplate",
+	"order": 10,
+	"impact": 0,
+	"name": "Termians",
+	"description": "Termians are an ant-like species hailing from deep space."
+
+}

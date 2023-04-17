@@ -1,0 +1,17 @@
+{
+	"powers": [
+		"origins:water_breathing",
+		"origins:water_vision",
+		"origins:aqua_affinity",
+		"origins:swim_speed",
+		"origins:like_water",
+		"origins:aquatic",
+		"origins:conduit_power_on_land",
+		"origins:air_from_potions"
+	],
+	"icon": "minecraft:glow_squid_spawn_egg",
+	"order": 10,
+	"impact": 2,
+	"name": "Cephilid",
+	"description": "Hailing from a distant waterlogged world, Cephilids find it somewhat difficult to engage in Terran society."
+}

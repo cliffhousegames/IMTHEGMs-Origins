@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"cliffgin:faeparticles"
+	],
+	"icon": "botania:green_mushroom",
+	"order": 10,
+	"impact": 0,
+	"name": "The Shadow Court",
+	"description": "Also known as 'Fey', the Lords and Ladies of the Shadow Court are fickle masters."
+}

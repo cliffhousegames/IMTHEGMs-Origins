@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"cliffgin:soldierkit"
+	],
+	"icon": "minecraft:golden_sword",
+	"order": 10,
+	"impact": 0,
+	"name": "The Enforcer's Guild",
+	"description": "The system's premier thugs for hire."
+}

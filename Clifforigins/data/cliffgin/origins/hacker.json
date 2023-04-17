@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"cliffgin:hackerkit"
+	],
+	"icon": "computercraft:computer_advanced",
+	"order": 10,
+	"impact": 0,
+	"name": "White Hat Guild",
+	"description": "Employed by every major corporation, White Hats are responsible for testing computer security systems."
+}

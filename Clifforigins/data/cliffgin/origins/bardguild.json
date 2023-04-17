@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"cliffgin:bardkit"
+	],
+	"icon": "supplementaries:flute",
+	"order": 10,
+	"impact": 0,
+	"name": "The College of Bards",
+	"description": "Some of the most famous guildsmen are the Bards, storytellers and lore-keepers dispersed around the galaxy."
+}

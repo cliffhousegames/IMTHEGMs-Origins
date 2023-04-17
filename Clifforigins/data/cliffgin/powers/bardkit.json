@@ -1,0 +1,18 @@
+{
+	"type": "apoli:starting_equipment",
+	"name": "Bard Kit",
+	"description": "Starting equipment for members of the College of Bards.",
+	"stacks": [
+	  {
+		"item": "minecraft:compass"
+	  },
+	  {
+		"item": "minecraft:enchanted_book",
+		"amount": 4
+	  },
+	  {
+		"item": "minecraft:writeable_book",
+		"amount": 8
+	  }
+	]
+  }

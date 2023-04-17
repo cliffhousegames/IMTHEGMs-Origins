@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"origins:ender_particles"
+	],
+	"icon": "bloodmagic:apprenticebloodorb",
+	"order": 10,
+	"impact": 0,
+	"name": "Lunites",
+	"description": "Lunites believe that a dark power sleeps beneath the moon's crust, and pray for her awakening."
+}

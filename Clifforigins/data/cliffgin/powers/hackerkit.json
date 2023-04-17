@@ -1,0 +1,14 @@
+{
+	"type": "apoli:starting_equipment",
+	"name": "Hacking Kit",
+	"description": "Starting equipment for members of the White Hat Guild.",
+	"stacks": [
+	  {
+		"item": "computercraft:pocket_computer_normal"
+	  },
+	  {
+		"item": "minecraft:redstone",
+		"amount": 32
+	  }
+	]
+  }

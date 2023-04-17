@@ -1,0 +1,14 @@
+{
+  "type": "origins_classes:modify_furnace_xp",
+  "name": "Chef Cooking XP",
+  "description": "The Chef gets extra XP when cooking with a Cooking Pot.",
+  "modifier": {
+    "name": "Chef Cooking Pot Xp Bonus",
+    "value": 1.2,
+    "operation": "multiply_base"
+  },
+  "block_condition": {
+    "type": "apoli:block",
+    "block": "farmersdelight:cooking_pot"
+  }
+}

@@ -1,0 +1,12 @@
+{
+	"powers": [
+		"cliffgin:cooking_pot_xp",
+		"cliffgin:more_smoker_xp",
+		"origins-classes:better_crafted_food"
+	],
+	"icon": "farmersdelight:iron_knife",
+	"order": 10,
+	"impact": 1,
+	"name": "Chef",
+	"description": "Everyone needs to eat, and Chefs make sure they have the best food possible."
+}

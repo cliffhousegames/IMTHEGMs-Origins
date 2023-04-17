@@ -1,0 +1,15 @@
+{
+	"powers": [
+		"origins:throw_ender_pearl",
+		"origins:water_vulnerability",
+		"origins:pumpkin_hate",
+		"origins:extra_reach",
+		"origins:ender_particles",
+		"origins:damage_from_potions"
+	],
+	"icon": "alexsmobs:void_worm_eye",
+	"order": 4,
+	"impact": 0,
+	"name": "Eldarin",
+	"description": "A humanoid species native to the vacuum of space, Eldarin are a recent addition to Earth society."
+}

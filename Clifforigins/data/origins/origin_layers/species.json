@@ -1,0 +1,13 @@
+{
+  "replace": false,
+  "enabled": true,
+  "order": 2,
+  "origins": [
+    "cliffgin:eldarin",
+    "cliffgin:squidman",
+    "cliffgin:terran",
+    "cliffgin:insectoid"
+  ],
+  "name": "Species",
+  "allow_random": false
+}

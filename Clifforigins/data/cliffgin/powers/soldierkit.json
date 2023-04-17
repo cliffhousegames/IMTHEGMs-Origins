@@ -1,0 +1,18 @@
+{
+	"type": "apoli:starting_equipment",
+	"name": "Soldier Kit",
+	"description": "Starting equipment for members of the Enforcer's Guild.",
+	"stacks": [
+	  {
+		"item": "minecolonies:spear"
+	  },
+	  {
+		"item": "minecraft:bread",
+		"amount": 32
+	  },
+	  {
+		"item": "minecraft:map",
+		"amount": 3
+	  }
+	]
+  }

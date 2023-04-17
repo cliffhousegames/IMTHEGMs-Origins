@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "enabled": true,
+  "order": 4,
+  "origins": [
+    "origins-classes:cleric",
+    "origins-classes:merchant",
+    "cliffgin:mechanic",
+    "origins-classes:miner",
+    "cliffgin:chef"
+  ],
+  "name": "Job",
+  "allow_random": true
+}

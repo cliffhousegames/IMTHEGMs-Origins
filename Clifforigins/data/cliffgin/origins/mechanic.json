@@ -1,0 +1,11 @@
+{
+	"powers": [
+		"origins-classes:quality_equipment",
+		"origins-classes:efficient_repairs"
+	],
+	"icon": "industrialforegoing:iron_gear",
+	"order": 10,
+	"impact": 1,
+	"name": "Mechanic",
+	"description": "Mechanics are the ones who keep the many technological contraptions we rely on running 24/7."
+}

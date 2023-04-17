@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "enabled": true,
+  "order": 6,
+  "origins": [
+    "cliffgin:nocult",
+    "cliffgin:lunarcult",
+    "cliffgin:solarcult",
+    "cliffgin:voidcult",
+    "cliffgin:faecult"
+  ],
+  "default_origin": "cliffgin:nocult",
+  "name": "Cult Affinity"
+}

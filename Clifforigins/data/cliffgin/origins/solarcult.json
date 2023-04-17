@@ -1,0 +1,10 @@
+{
+	"powers": [
+		"origins:flame_particles"
+	],
+	"icon": "minecraft:sunflower",
+	"order": 10,
+	"impact": 0,
+	"name": "Cult of Ra",
+	"description": "Ra's worshippers seek to reincarnate the ancient Sun King to lead them to a glorious new interstellar empire."
+}
